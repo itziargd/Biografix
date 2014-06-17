@@ -9,13 +9,13 @@ Biografix has been developed for Basque but it has been adapted for other langua
 
 At this moment Biografix works for this languages:
 
-*Basque
-*Catalan
-*Galician
-*German
-*French
-*Portugese
-*Spanish
+  * Basque
+  * Catalan
+  * Galician
+  * German
+  * French
+  * Portugese
+  * Spanish
 
 
 Please note that all the versions but Basque have been adapted and no develoment has been done for them.
