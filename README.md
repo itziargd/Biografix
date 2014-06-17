@@ -13,6 +13,7 @@ At this moment Biografix works for this languages:
   * Catalan
   * Galician
   * German
+  * Italian
   * French
   * Portugese
   * Spanish
