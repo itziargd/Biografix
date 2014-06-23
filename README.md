@@ -23,7 +23,7 @@ These versions are found as subrepositories.
 
 Please note that all the versions but Basque have been adapted and no develoment has been done for them.
 
-The input file for Biografix should be a csv file containg the title of the Wikipedian article (or the name of the person) in the first column and the sentence containing the biografical information in brackets in the second column. The file input.example.csv is an example file.
+The input file for Biografix should be a csv file containg the title of the Wikipedian article (or the name of the person) in the first column and the sentence containing the biografical information in brackets in the second column. The file input.example.csv is an example file to use Biografix.
 
 
 If you want more information or if you use this tool please cite:
