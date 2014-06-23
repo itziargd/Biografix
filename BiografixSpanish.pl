@@ -11,9 +11,7 @@ my $sentence = '';
 
 
 
-
 #Create new sentences out of parentehical structures with biographical information. Spanish version.
-
 
 
 
