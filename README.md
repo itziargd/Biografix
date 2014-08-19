@@ -26,7 +26,7 @@ If you want more information or if you use this tool please cite:
 
 http://ixa.si.ehu.es/Ixa/Produktuak/1403535629
 
-Gonzalez-Dios, I., Aranzabe, M.J., Díaz de Ilarraza, A. (2014) Making Biographical Data in Wikipedia Readable: A pattern-based Multilingual Approach. To appear in Automatic Text Simplification - Methods and Applications in the Multilingual Society (ATS-MA). Workshop at Coling 2014.
+Gonzalez-Dios, I., Aranzabe, M.J., Díaz de Ilarraza, A. (2014) Making Biographical Data in Wikipedia Readable: A pattern-based Multilingual Approach. Proceedings of the Workshop on Automatic Text Simplification - Methods and Applications in the Multilingual Society (ATS-MA 2014). Workshop at Coling 2014. pp. 11--20. 
 
 
 Contact: itziar dot gonzalezd at ehu dot es
